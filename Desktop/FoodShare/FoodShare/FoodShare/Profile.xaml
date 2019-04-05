@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodShare.Profile"
+             Title="Profile">
+    <ContentPage.Content>
+        <StackLayout Spacing="30">
+            <StackLayout Orientation="Vertical">
+                <Label Text="Name" FontAttributes="Bold"/>
+                <Label Text="{Binding Name}"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Label Text="Bank Account" FontAttributes="Bold"/>
+                <Label Text="123456789"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Label Text="IC Number" FontAttributes="Bold"/>
+                <Label Text="{Binding ICNumber}"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Label Text="Phone Number" FontAttributes="Bold"/>
+                <Label Text="{Binding HPNum}"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Label Text="Email" FontAttributes="Bold"/>
+                <Label Text="{Binding Email}"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Label Text="Vehicle information" FontAttributes="Bold"/>
+                <Label Text="Honda EX5"/>
+                <Label Text="KDX 8686"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

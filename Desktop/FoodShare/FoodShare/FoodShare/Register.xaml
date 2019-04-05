@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FoodShare"
+             x:Class="FoodShare.Register">
+<!--    <ContentPage.Content>-->
+    <StackLayout>
+        <StackLayout>
+            <StackLayout Spacing="10">
+                <Entry x:Name="txtName" Placeholder="Name"/>
+                <Entry x:Name="txtic" Placeholder="IC Number"/>
+                <Entry x:Name="txtadd" Placeholder="Address"/>
+                <Entry x:Name="txtphone" Placeholder="Phone Number"/>
+                <Entry x:Name="txtemail" Placeholder="Email"/>
+                <Entry x:Name="txtpass" Placeholder="Password"/>
+                
+                <Button x:Name="btnsignup" Text="SIGN UP" WidthRequest="150" HorizontalOptions="CenterAndExpand" BackgroundColor="Black" TextColor="White" FontSize="Medium" Clicked="signup"/>
+                
+                <!--<ListView x:Name="lstPersons">
+                    <ListView.ItemTemplate>
+                         <DataTemplate>
+                            <TextCell Text="{Binding Name}"></TextCell>
+                         </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>-->
+            </StackLayout>
+         </StackLayout>
+     </StackLayout>
+        
+        
+<!--    </ContentPage.Content>-->
+</ContentPage>

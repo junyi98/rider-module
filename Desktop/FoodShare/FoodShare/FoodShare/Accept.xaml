@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FoodShare.Accept">
+    <ContentPage.Content>
+        
+        <StackLayout Spacing="10" VerticalOptions="Center">
+           <!--<ListView x:Name="JobList">  
+                    
+                </ListView>-->
+            <Label Text="23, jalan usj 12/1D"/>
+            <Button Text="pick up" Clicked="startPickUp"/>
+
+            <Label Text="23, jalan usj 12/1D"/>
+            <Button Text="Delivery" Clicked="startDelivery"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

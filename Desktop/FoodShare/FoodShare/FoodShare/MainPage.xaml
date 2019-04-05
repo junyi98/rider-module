@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FoodShare"
+             xmlns:syncfusion="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+             x:Class="FoodShare.MainPage">
+
+    <StackLayout Spacing="10" VerticalOptions="Center">
+        <Label Text="FOODSHARE" HorizontalOptions="CenterAndExpand" FontSize="Large"/>
+        <Entry Placeholder="Username" x:Name="txtName"/>
+        <Entry Placeholder="Password" IsPassword="True" x:Name="txtpass"/>
+        <StackLayout Orientation="Horizontal" Spacing="160">
+            <syncfusion:SfCheckBox x:Name="checkbox" Text="Remember me"/>
+            <Label Text="Forget Password"/>
+        </StackLayout>
+        <Button Text="LOGIN" BackgroundColor="Black" HorizontalOptions="CenterAndExpand" WidthRequest="150" TextColor="White" FontSize="Medium" Clicked="signin"/>
+        <Button Text="SIGN UP" TextColor="White" HorizontalOptions="CenterAndExpand" FontSize="Medium" BackgroundColor="Black" Clicked="signup" WidthRequest="150"/>
+    </StackLayout>
+
+</ContentPage>

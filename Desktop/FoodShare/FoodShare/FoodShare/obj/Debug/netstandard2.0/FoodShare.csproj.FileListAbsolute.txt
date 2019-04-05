@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\bin\Debug\netstandard2.0\FoodShare.deps.json
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\bin\Debug\netstandard2.0\FoodShare.dll
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\bin\Debug\netstandard2.0\FoodShare.pdb
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\Accept.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\History.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\Profile.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.dll
+C:\Users\ASUS\Desktop\FoodShare\FoodShare\FoodShare\obj\Debug\netstandard2.0\FoodShare.pdb

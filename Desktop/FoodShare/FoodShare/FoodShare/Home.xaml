@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodShare.Home"
+             Title="Home">
+    <ContentPage.Content>
+        <StackLayout Spacing="50">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Welcome back " FontSize="Large"/>
+                <Label Text="{Binding Name}" FontSize="Large" x:Name="label"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Ratings:" FontSize="Large"/>
+                <Label Text="4.89%" FontSize="Large"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Cancellation:" FontSize="Large"/>
+                <Label Text="0.0%" FontSize="Large"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="On/Off" FontSize="Large"/>
+                <Switch x:Name="notification" IsToggled="False" Toggled="notify"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical">
+                <Button Text="Profile" Clicked="click"/>
+                <Button Text="History" Clicked="clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

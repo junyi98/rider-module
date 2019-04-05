@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0BE21360-AA94-4A65-84F7-2F44B7D6538F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodShare/FoodShare/Accept.xaml.cs">
+    <Files>
+      <File FileName="FoodShare/FoodShare/Home.xaml" Line="9" Column="63" />
+      <File FileName="FoodShare/FoodShare/Home.xaml.cs" Line="15" Column="1" />
+      <File FileName="FoodShare/FoodShare/MainPage.xaml.cs" Line="19" Column="26" />
+      <File FileName="FoodShare/FoodShare/Helper/FirebaseHelper.cs" Line="103" Column="162" />
+      <File FileName="FoodShare/FoodShare/Accept.xaml.cs" Line="21" Column="54" />
+      <File FileName="FoodShare/FoodShare/Accept.xaml" Line="7" Column="21" />
+      <File FileName="FoodShare/FoodShare/Model/Person.cs" Line="17" Column="21" />
+      <File FileName="FoodShare/FoodShare/MainPage.xaml" Line="21" Column="1" />
+      <File FileName="FoodShare/FoodShare/Register.xaml" Line="15" Column="65" />
+      <File FileName="FoodShare/FoodShare/Register.xaml.cs" Line="45" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodShare" expanded="True">
+            <Node name="FoodShare" expanded="True">
+              <Node name="Helper" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Accept.xaml" expanded="True">
+                <Node name="Accept.xaml.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Home.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Profile.xaml" expanded="True" />
+              <Node name="Register.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FoodShare.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
